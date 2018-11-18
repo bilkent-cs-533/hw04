@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 243 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/02/son/soneko07.html </URL>
+<DATE> 2001/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul Borsası hayal kırıklığı listesinde 
+</HEADLINE>
+<TEXT>
+
+     Gelişmekte olan ülkelerin borsaları, 2000 yılında yatırımcıları hayal kırıklığına uğratarak genelde kötü bir performans sergilediler. 
+     France Soir gazetesinin yaptığı bir araştırmaya göre, gelişmekte olan ülkelerin borsalarının büyük bir kısmı, 2000 yılında önemli ölçüde değer kaybettiler. Araştırmaya göre, Seul Borsası, bir yıl içinde gösterdiği yüzde 51 oranındaki düşüşle en kötü performansı gösteren borsalar içinde ilk sırada yer alıyor. 
+     Seul'ü, yüzde 44'lük düşüşle Bangkok Borsası, yüzde 43'lük düşüşle Taiwan Borsası izliyor. Kahire Borsası yüzde 42'lik düşüşle 4'üncü sırada yer alırken, İstanbul Borsası ise yüzde 32'lik düşüşle 5'inci sırada geliyor. Fransız gazetesinin araştırmasına göre, 2000 yılnda Singapur Borsası ve Buenos Aires Borsası yüzde 23, Mexico Borsası yüzde 22, Santiago Borsası ise yüzde 4.5'lik bir değer kaybı yaşadılar. 
+     
+     
+
+
+
+</TEXT>
+</DOC>

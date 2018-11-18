@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> 533 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/04/yasam/yas12.html </URL>
+<DATE> 2001/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Belediye farenin ucunda 
+</HEADLINE>
+<TEXT>
+
+Kadıköylüler altı ay sonra, emlak ve çöp vergilerini internet üzerinden ödeyebilecek 
+     AYŞE ALTIOK 
+
+     İstanbul’da birçok belediye sanal dünyada yerini alırken, Kadıköy Belediyesi bunu bir adım daha ileriye götürerek, 1990 yılında Amerika’da hizmete giren digital belediyecilik sistemini kurmak için çalışmalarını sürdürüyor. 
+     Epsilon Danışmanlık Şirketi tarafından kurulacak e - belediye sistemiyle çevre ve emlak vergilerini kredi kartıyla ödemek mümkün olacak. 1.5 milyon dolara mal olacak sistem, 2001 yılının ortalarında hizmete girecek. 
+     
+Dijital belediye      Belediye adına sistemi kurmakla görevlendirilen Epsilon, tüm dünyadaki e - belediye uygulamalarının bir dökümünü çıkardı. Bunların arasında nüfus ve coğrafi açıdan Kadıköy’le büyük bir benzerlik gösteren Amerika’nın San Diego kentinin web sitesi örnek alınarak proje hazırlandı. 
+     Siteyi, vatandaşlara şefaf bir yönetim sunmak için hazırlattıklarını söyleyen Kadıköy Belediye Başkanı Selami Öztürk, çalışmanın başarılı olacağına inandığını ifade etti. Başkan Öztürk şunları söyledi 
+     "Vatandaşlara teknolojik kolaylık sağlamak istiyoruz. Emlak ve çöp vergileri kredi kartı aracılığıyla internet üzerinden ödenebilecek. Önerilen web sitesi tasarımı bize çok hesaplı gelmese bile paradan çok başarılı olmasını istiyoruz. Eğer başarıya ulaşırsa ödeyeceğimiz parayı önemsemeyeceğiz. Çünkü belediye çalışanlarına eğitim, web tasarımı ve makine verilecek. Sistemle birlikte Meclis oturumları ve kararları halka açık olacak. İstemediği bir kararın alındığına şahit olan vatandaş yasal yollara başvurma hakını kullanacak. Bu sistemle belediye Kadıköylüler’e 24 saat açık olacak." 
+     
+Vatandaş yönetecek      Sitenin tasarımı hazırlayan Epsilon Şirketi’nin kurucusu Dr. Sedat Özkol, 21 yüzyıla uygun olan şeffaf bir yönetim için bu siteyi yarattıklarını belirterek şu açıklamayı yaptı 
+     "Bizdeki belediye sitelerini dolaştık. Belediye başkanlarının resimleri, mesajları ve belediyelerin reklamlarıyla karşılaştık. Ama insanlar artık yaşadıkları kenti kendileri yönetmek istiyor. San Diego’nun web sitesi doğumdan ölüme kadar vatandaşına hizmet veriyor. Ayrıca isteyenler belediye meclisinin toplantılarını da izleyebiliyor, e-mail’le katılabiliyor. Aynı sistemi Kadıköy’e kuracağız." 
+     Sakıp Sabancı’nın şirketi olan I-BİMSA, web sayfasının arşivinden, dökümantasyonundan ve tasarımından sorumlu olacak. Kadıköy Belediyesi’nin 25 müdürlüğü arasında bilgi alışverişini sağlayacak olan şirketin çalışmalarını Epsilon şirketi denetleyecek. 
+     
+     İşte Kent Bilgi Sistemi 
+     Çalışmaları halen devam eden sitede, ilçenin imar durumu, semt haritaları, yer yapısı, jeolojik durumu, ihaleler ve iş ilanları yer alacak, Meclis oturumları izlenebilecek. Ayrıca vatandaşların oturdukları semtlerde kendilerine en yakın nöbetçi eczaneler, muslukçu, elektrikçi, kütüphaneler, çocuk yuvaları, sağlık hizmetleri ve otobüs saatleri gibi bilgilere de ulaşılabilecek. Projenin ikinci kısmında ise "Kent Bilgi Sistemleri" ile bir konutun kime ait olduğu, kaç kişinin oturduğu, oturanların meslekleri, konutta doğalgaz, su, elektrik olup olmadığı öğrenilebilecek. Bu konuda vatandaşta bilgi edinebileceği gibi, belediye de konu hakkında arşiv tutabilecek. 
+     
+
+
+ YAŞAM 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</TEXT>
+</DOC>

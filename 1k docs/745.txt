@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 745 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/sondun08.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sibirya'da eksi 53 derece alarmı 
+</HEADLINE>
+<TEXT>
+
+     Rusya'nın Sibirya kesimindeki bölgelerinde hava sıcaklığının eksi 50 dereceye düşeceği tahminleri, aşırı soğuklar nedeni ile halen sorunlarla karşı karışa olan bölgede yetkilileri alarma geçirdi. 
+     Meteoroloji yetkililerine göre, kutuplar üzerinden hareket etmekte olan ve bir-iki güne kadar Sibirya'yı etkisi altına alacak olan soğuk hava dalgası, bölgede sıcaklığın eksi 50 dereceye düşmesine yol açacak. 
+     Bölgedeki en büyük kentlerden biri olan Novosibirsk'in enerji alanındaki yetkilileri, şehrin merkezi ısıtma ve sıcak su dağıtım sisteminin en çok eksi 40'a dayanabileceğini, bu nedenle tüm acil hizmet servislerinin alarma geçirildiğini belirttiler. Kent belediyesi, merkezi ısıtma sisteminden daha iyi verim alınabilmesi için merkezi sıcak su dağıtım sistemini kesebileceğini de belirtti. Hava sıcaklığı Novosibirsk'te bugün eksi 35 derece olarak ölçüldü. 
+     Bu düzeydeki hava sıcaklığı, bölgeyi günlerdir sorunlarla karşı karşıya bırakıyor. Uzak Doğu'da bulunan Primorye yöresindeki yerleşim birimlerinde 10 binin üzerinde insanın yaşadığı toplam 177 bina ile çok sayıda okul, kreş ve hastane, merkezi ısıtma sistemlerinde meydana gelen donmalar nedeniyle soğukta kaldı. Onarım ekipleri 24 saat aralıksız çalışıyorlar. Yine Uzak Doğu'daki Birobijan kentinde de merkezi ısıtma şebekesinde büyük bir sızıntı başlaması nedeniyle onarım için sıcak su kesildi ve bugün 400 apartman ısınmadan yoksun kaldı. Uzak Doğu'da bazı elektrik santrallerine kömür gönderilememesi nedeniyle bölgede yer yer elektrik kesintileri de yapılıyor 
+
+
+
+
+</TEXT>
+</DOC>

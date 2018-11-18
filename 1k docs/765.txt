@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 765 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/soneko10.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Hazine ihalesi 
+</HEADLINE>
+<TEXT>
+
+     Hazine Müsteşarlığı bugün gerçekleştirdiği 2001 yılının ilk ihalelerinde, 14 ve 6 ay vadeli borçlanmaya gitti. 
+     Bu ihalelerden 14 ay vadeli tahvil ihalesine toplam 683.3 trilyon liralık teklif gelirken, ihalede nominal 438.5 trilyon liralık satış gerçekleşti. İhaledeki net satış miktarı 250.1 trilyon lira oldu. 
+     14 ay vadeli tahvil ihalesinde yıllık basit ortalama faiz yüzde 67.17, bileşik ortalama faiz yüzde 64.99 olarak gerçekleşti. İhalede basit faiz minimum yüzde 59, maksimum yüzde 70.96, bileşik minimum faiz yüzde 57.28, maksimum faiz de yüzde 68.56 oldu. Bu ihalede ayrıca kamuya 250 trilyon liralık satış gerçekleşti. 
+     Hazine'nin 6 ay vadeli bono ihalesine de toplam 2 katrilyon 361 trilyon liralık teklif gelirken, nominal 1 katrilyon 488.7 trilyon liralık satış yapıldı. 
+     İhalede net satış miktarı 1 katrilyon 147.1 trilyon lira oldu. 6 ay vadeli ihalede yıllık bileşik ortalama faiz yüzde 67.47, basit ortalama faiz yüzde 58.91 olurken, basit minimum faiz yüzde 55.34, maksimum faiz de yüzde 60.75 olarak belirlendi. 
+     İhalede bileşik minimum faiz yüzde 62.90, maksimum faiz de yüzde 69.85 oldu. 
+     Hazine Müsteşarlığı'nın en son 14 Kasım 2000 tarihinde düzenlediği 14 ay vadeli tahvil ihalesinde brüt bileşik faiz yüzde 38.28, 27 Kasım'da düzenlediği 12 ay vadeli tahvil ihalesinde de brüt bileşik faiz yüzde 41.90 olmuştu. Hazine'nin 19 Aralık'ta gerçekleştirdiği 357 gün vadeli yılın son ihalesinde ise 86.24 trilyon lira teklif gelmesine karşın, satış yapılmamıştı. 
+     Öte yandan, bu ayın en büyük iç borç geri ödemesi pazartesi günü yapılacak. Söz konusu ödeme kağıt üzerinde yarın gözükürken, 6 Ocak Cumartesi gününe geldiğinden, ödeme takip eden ilk iş günü olan 8 Ocak Pazartesi günü yapılacak. 
+     Bu tarihte Hazine, 1 katrilyon 184 trilyon lirası ana para, 260.5 trilyon lirası da faiz olmak üzere, toplam 1 katrilyon 444.4 trilyon lira iç borç geri ödemesi yapacak. Hazine Müsteşarlığı, Ocak ayı genelinde ise 1 katrilyon 413.7 trilyon lirası anapara, 1 katrilyon 172.6 trilyon lirası da faiz olmak üzere, toplam 2 katrilyon 586.3 trilyon lira iç borç geri ödemesinde bulunacak. 
+
+
+
+
+</TEXT>
+</DOC>

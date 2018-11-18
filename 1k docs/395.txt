@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 395 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/son/sondun11.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Moskova'da tüm havaalanları sis nedeniyle kapandı 
+</HEADLINE>
+<TEXT>
+
+     Rusya'nın başkenti Moskova'da, iç ve dış seferlerde kullanılan tüm havaalanları, yoğun sis nedeniyle bu sabahtan itibaren inişlere kapatıldı. 
+     Hava Trafik Kontrol Merkezi'nden yapılan açıklamaya göre, Şeremetyevo, Domadedovo ve Vnukovo havaalanlarına sis nedeniyle iniş yapılamıyor. Gelen uçaklar St. Petersburg, Voronej, Nijni Novgorod, Omsk veya Kiev'e yönlendiriliyor. 
+
+
+
+
+</TEXT>
+</DOC>

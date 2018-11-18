@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 436 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/son/sontur11.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yatağan'da üretim durduruldu 
+</HEADLINE>
+<TEXT>
+
+     Yatağan Termik Santralı'nda üretim, havadaki kükürtdioksit oranının yükselmesi üzerine öğle saatlerinde durduruldu. 
+     Yatağan Kaymakamı Mehmet Okur, Saat 11.00'de yapılan ölçümlerde havadaki kükürtdioksit oranının metreküpte 600 mikrogram, saat 11.30'da ise 800 mikrograma yükselmesi üzerine santralın çalışmakta olan 2 ünitesindeki üretimin durdurulduğunu açıkladı. 
+     Yatağan Termik Santralı'nın daha önce bir ünitesindeki kazanın patlaması sonucunda bakım çalışmalarının sürdürüldüğünü belirten Okur, ''Havadaki inversiyon, yani kükürtdioksit oranının 500 mikrogramın üzerine çıkması üzerine saat 11.45 itibariyle üretimi durdurduk. Korkulacak herhangi birşey yok'' dedi. 
+
+
+
+
+</TEXT>
+</DOC>

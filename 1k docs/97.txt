@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 97 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/12/29/son/soneko01.html </URL>
+<DATE> 2001/12/29/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+New York borsası yükseldi 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Borsası'nın Dow Jones Sanayi Endeksi, 5.68 puan yükselişle yüzde 0.06 10,136.99 puandan kapandı. 
+     New York'ta teknoloji ortaklıklarının göstergesi Nasdaq Birleşik Endeksi de 10.85 puan artışla yüzde 0.55 1,987.27 puandan kapandı. 
+     
+
+
+
+
+
+
+</TEXT>
+</DOC>

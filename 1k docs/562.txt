@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> 562 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/04/son/sondun03.html </URL>
+<DATE> 2001/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya’da 5.3 büyüklüğünde deprem 
+</HEADLINE>
+<TEXT>
+
+     Japonya’nın kuzeyinde Richter ölçeğine göre 5.3 büyüklüğünde deprem oldu. 
+     Yetkililer, yerel saatle 13.18’de TSİ 06.18 meydana gelen depremin merkez üssünün, başkent Tokyo’nun 250 kilometre kuzeybatısındaki Niigata bölgesinde, yerin yaklaşık 20 kilometre altında olduğunu söylediler. Polis yetkilileri, depremin can ya da mal kaybına yol açıp açmadığı konusunda henüz bilgi bulunmadığını belirttiler. 
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 786 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/sontur11.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İstanbul'da elektrik kesintisi 
+</HEADLINE>
+<TEXT>
+
+     Çağlayan ve Beyoğlu İşletme Müdürlükleri bölgesindeki trafo merkezlerinde yapılacak çalışmalardan dolayı bölgedeki bazı semtlere 7 ve 9 Ocak tarihlerinde elektrik verilmeyecek. 
+     Boğaziçi Elektrik Dağıtım A.Ş'den yapılan yazılı açıklamaya göre, 7 Ocak Pazar günü, 09.00-17.00 saatleri arasında, Çağlayan'daki Vatan Caddesi'nin bir bölümü, Çağlayan Park, Fırın, Taşçı, Zuhal, Levent ve Paşa sokakları ile Şeref Sokak'ın bir bölümünde elektrik kesintisi yapılacak. 
+     Aynı gün Beyoğlu'nda ise, 08.00-18.00 saatleri arasında Ömer Hayyam Caddesi, Tevfik Efendi, Samancı Ferhat, Komişci, Fesleğen, Emin Camii,Kahyabey, Küçük Odalar ve Dilbaz sokakları, Dolapdere Caddesi, Ahmet Efendi Sokak, Fulya Caddesi, Mersinli Ahmet, Dr. İsmet Öztürk, Güven, Yaşar Doğu, Tosun, Kozacık, Ayhan Işık, Nur ve Özlüce sokaklarında kesinti uygulanacak. Çağlayan bölgesinde 9 Ocak Salı günü de, 08.00-18.00 saatleri arasında Mecidiyeköy Dereboyu Caddesi, Uğur Aralığı ve Şahinler Sokak ile Kekik Sokak'ın bir kısmı, Marmara Siteleri ve Ağaoğlu Sokak'ın bir bölümüne elektrik verilemeyecek. 
+
+
+
+
+</TEXT>
+</DOC>

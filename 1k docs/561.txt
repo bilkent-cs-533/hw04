@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> 561 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/04/son/sondun02.html </URL>
+<DATE> 2001/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Nasdaq rekor kırdı 
+</HEADLINE>
+<TEXT>
+
+     Dünyanın en büyük borsası konumundaki New York Wall Street Menkul Kıymetler Borsası’nda teknoloji şirketlerinin hisse senetlerinin izlendiği Nasdaq birleşik endeksi, 324.82 puan artışla günü 2 bin 616.68 puandan kapattı. Nasdaq 30 yıllık tarihinde 1 günde yüzde 14.17 artışla rekor kırdı. 
+     Wall Street’in temel mali göstergesi Dow Jones Endeksi de 305 puan artışla yüzde 2.9 yükseliş 10 bin 951 puandan kapandı. 
+     ABD Merkez Bankası’nın faiz oranlarını yüzde 0.5 düşürmesiyle Dow Jones, ikinci seansta bir ara 11 bin puan sınırını bile aştı. 
+     ABD Merkez Bankası, bugün faiz hadlerini düşüren sürpriz açıklamasında, kısa dönem faiz haddinin yarım puan düşürüldüğünü bildirince borsa çoştu. Bu karar, ABD Merkez Bankası’nın iki yıl içinde yaptığı ilk faiz indirimi oldu. 
+     New York Borsası, Amerikan Merkez Bankası’nın beklenmeyen açıklamasından önce güne de yükselişle başlamıştı. Borsada ilk saat işlemleri sonunda Dow Jones Endeksi 89.16 puan artışla 10,735.31 puana, Nasdaq Endeksi de 32.58 puan artışla 2,324.44 puana çıktı. 
+     ABD Merkez Bankası’ndan yapılan sürpriz açıklamada, kısa dönem gecelik faiz haddinin yarım puan düşürülerek yüzde 6.5’ten yüzde 6’ya çekildiği bildirildi. 
+     Açıklamada, "ekonominin yavaşlamasının çok fazla olduğunun görülmesi durumunda faiz hadlerinde yeni indirimlere gidilebileceği" de vurgulandı. 
+     ABD Merkez Bankası’nın faiz hadlerini düzenlemekten sorumlu Açık Piyasa Komisyonu’nun ay sonunda planlanan olağan toplantısından önce sürpriz bir şekilde alınan faiz indirimi kararı, bankanın, piyasalarda ekonominin hız kesmesinin beklenenden ve istenenden yüksek olabileceği yolunda artan kaygıları yatıştırmaya yönelik hareketi olarak değerlendiriliyor. 
+     Açıklamada, "Merkez Bankası’nın ABD ekonomisi önünde şu andaki en büyük tehdidin enflasyondan değil durgunluk eğilimine girmeden geldiği görüşünü koruduğu" kaydedildi. 
+     Enflasyonist baskıların kontrol altında tutulduğu belirtilen açıklamada, görülebilir gelecek için ekonomik zayıflığa yol açabilecek risklerin ağırlık kazandığı vurgulandı. 
+     ABD ekonomisi 2000 yılının son 3 aylık döneminde yıllık yüzde 2.2 ile son dört yılın en düşük büyüme hızını gösterdi. Ekonominin son 10 yılda gösterdiği olağanüstü büyümenin enflasyonist baskıların şiddetlendirdiğini gören ABD Merkez Bankası, son iki yıldır kontrollü bir soğutma politikası izliyor, periyodik faiz artırımlarıyla ekonomik büyüme hızını azaltma yoluna gidiyordu. 
+     Açıklamanın duyulmasından saniyeler sonra Dow Jones Endeksi 300, Nasdaq Endeksi de 100 puanın üzerinde artış gösterdi. 
+
+
+
+
+</TEXT>
+</DOC>

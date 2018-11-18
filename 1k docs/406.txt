@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 406 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/son/soneko06.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası'ndan 2 repo ihalesi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bugün düzenlediği beş ve altı günlük iki repo ihalesiyle, piyasaya toplam 1 katrilyon 525 trilyon lira verdi. 
+     Edinilen bilgiye göre, beş günlük repo ihalesine 1 katrilyon 227.7 trilyon liralık talep gelirken, 430.2 trilyon lirası karşılandı. İhalede ortalama bileşik faiz yüzde 105.02, en düşük basit faiz yüzde 63.05 oldu. Altı günlük repo ihalesinde ise ortalama bileşik faiz yüzde 111.18 olarak belirlenirken, ihalede en düşük basit faiz yüzde 64.60 olarak hesaplandı. Altı günlük repo ihalesine toplam 1 katrilyon 893.8 trilyon liralık talep geldi, bunun 1 katrilyon 94.8 trilyon liralık kısmı karşılandı. Bu arada bankalar, günün ilk saatlerinde 7 milyon dolar ile 30 milyon Euro sattılar. 
+
+
+
+
+</TEXT>
+</DOC>

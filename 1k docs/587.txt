@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 587 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/04/son/soneko10.html </URL>
+<DATE> 2001/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+TEB döviz mevduat oranlarını yeniden belirlendi 
+</HEADLINE>
+<TEXT>
+
+     Türk Ekonomi Bankası TEB , yabancı para cinsinden mevduata uyguladığı faiz oranlarını yeniden belirlendi. 
+     Bankanın Amerikan Doları için 1 ay vadeli faiz oranı, 0.5 puan artırılarak yüzde 9'a çıkarılırken, 6 ay, 1 yıl ve 1 yıldan uzun vadeler için uygulanan faiz oranları ise 0.5 puan düşürüldü. Yüzde 9 olan 3 ay vadeli faiz oranı ise değişmedi. 
+     Bankanın Alman Markı için 1 ve 6 aylık vadelerdeki faiz oranları 1.5 puan artırılarak sırasıyla yüzde 7.5 ve 7'ye çıkarıldı. 3 ay, 1 yıl ve 1 yıldan uzun vadelerdeki faiz oranları da 1 puan artırılarak 3 ayda yüzde 7.5'e, 1 yıl ve daha uzun vadede yüzde 7'ye yükseltildi. Euro faiz oranları 1 ay ve 3 aylık vadelerde 0.25 puan düşürülerek yüzde 7.5'e çekilirken, 6 ay, 1 yıl ve 1 yıldan uzun vadelerdeki faizler ise 0.25 puan artırılarak yüzde 7'ye çıkarıldı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> 248 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/02/son/sontur01.html </URL>
+<DATE> 2001/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Sağanak yağış Antalya-Burdur yolunu kapattı 
+</HEADLINE>
+<TEXT>
+
+     Antalya-Burdur yolunun, sağanak yağış nedeniyle trafiğe kapatıldığı bildirildi. 
+     Karayolları Genel Müdürlüğü'nden yapılan açıklamada, Antalya- Burdur yolunun 26. kilometresinde sağanak yağıştan kaynaklanan su taşkını meydana geldiği, bu nedenle yolun saat 23.00'den itibaren trafiğe kapatıldığı belirtildi. Açıklamada, ulaşımın eski yoldan sağlandığı kaydedildi. 
+
+
+
+
+</TEXT>
+</DOC>

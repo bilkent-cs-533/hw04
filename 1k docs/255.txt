@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> 255 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/02/son/sontur08.html </URL>
+<DATE> 2001/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Kemer'de mültecilere mezar olan gemi, kayıtlarda boş görünüyor 
+</HEADLINE>
+<TEXT>
+
+     Antalya'nın Kemer İlçesinin Kiriş mevkii açıklarında dün batan gemideki yolcuların, gemiye ne zaman ve nerede bindikleri henüz aydınlatılamadı. 
+     Batan gemideki kaçak yolculardan sağ kurtulanlardan bir kısmının İstanbul'dan gemiye bindiklerini öne sürerlerken, Antalya Liman Bölge Müdürlüğü ve Gümrük Başmüdürlüğü yetkilileri, geminin limandan ayrılırken, resmi kayıtlara göre yolcusu ve yükünün bulunmadığını bildirdiler. 
+     Antalya Liman Bölge Müdürlüğü, Gümrük Başmüdürlüğü ve Gümrükler Muhafaza Başmüdürlüğü yetkilileri, kazadan sonra kayıtların yeniden incelendiğini ve 27 Aralık tarihinde Antalya Limanı'na giriş yapan Gürcistan bandıralı 399 grostonluk geminin resmi kayıtlara göre boş olduğunu söylediler. 
+     Antalya Gümrükler Muhafaza Başmüdür Yardımcısı Duran Ayar ise gemideki yolcuların Antalya Limanı'ndan bindiği yönündeki iddiaların asılsız olduğunu söyledi. 
+     Yetkililer, gemiye binen yolcular için 3 ihtimal üzerinde duruyorlar. Bunlar şöyle 
+149   Kaçak yolcular, geminin ambarlarında saklanarak Antalya Limanı'na geldi ve bir iki gün burada bekledi. 
+149   Gemi boş geldi, yolcular Antalya Limanı'ndan bindi. 
+149   Gemi boş gelip, limandan boş çıktı. Yolcular, limandan ayrıldıktan sonra gemiye alındı.' 
+
+
+
+
+</TEXT>
+</DOC>

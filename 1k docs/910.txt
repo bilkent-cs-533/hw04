@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 910 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/06/son/sondun04.html </URL>
+<DATE> 2001/01/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Japonya'da 4.9 büyüklüğünde deprem 
+</HEADLINE>
+<TEXT>
+
+     Japonya'nın orta kesimlerinde bugün Richter ölçeğine göre 4.9 büyüklüğünde deprem meydana geldiği bildirildi. 
+     Japonya'daki Meteoroloji Ajansı tarafından yapılan açıklamada, yerel saatle 11.48'de TSİ 04.48 meydana gelen depremin, başkent Tokyo'nun 300 kilometre batısındaki Gifu eyaletinde hissedildiği belirtildi. 
+     Yerel yetkililer, depremde can ya da mal kaybı meydana gelip gelmediği konusunda kendilerine henüz bilgi ulaşmadığını kaydettiler. 
+     Tokyo'nun 200 kilometre kuzeyindeki Niigata eyaletinde de önceki gün aynı büyüklükte meydana gelen deprem, herhangi bir hasara yol açmamıştı. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> 405 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/son/soneko05.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Borsa’da yatırımcı sayısı 2 milyonu aştı 
+</HEADLINE>
+<TEXT>
+
+     Borsa’da yatırımcı sayısı geçen yıl 2 milyonu aştı. 
+     Takasbank verilerine göre, 26 Aralık 2000 tarihi itibariyle üye bazında açık hesap sayısı 2 milyon 36 bin 511’e, içinde hisse senedi bulunan bakiyeli hesap sayısı ise 1 milyon 383 bin 478’e ulaştı. 
+     15 Eylül 2000 tarihinde açık hesap sayısı 1 milyon 967 bin 153, bakiyeli hesap sayısı ise 1 milyon 356 bin 824 idi. 
+     Böylece, son 3 ayda Borsa’daki büyük düşüşlere rağmen borsa yatırımcısı sayısının artış gösterdiği dikkat çekti. Yatırımcı sayısında artış oranı, yüzde 3.40 oldu. 
+     Açık hesap ve bakiyeli hesapların müşteri dökümlerine bakıldığında büyük bankaların menkul değer şirketlerinin ön sıralarda olduğu görülüyor. 
+     İlk sırada yeralan İş Bankası A.Ş.’nın 712 bin 474 açık hesap, 525 bin 990 bakiyeli hesap müşterisi bulunuyor. Bu durumda, her 3 borsa yatırımcısından birinin İş Bankası üzerinden işlem yaptığı ortaya çıkıyor. 
+     Ak Yatırım Menkul Değerler A.Ş. 147 bin 165 açık hesap, 97 bin 66 bakiyeli hesap müşterisiyle İş Bankası’nı izledi. 
+     Aracı kurumların müşterileri adına Takasbank’da açtığı her hesap "Açık hesap", içinde hisse senedi bulunan hesaplar da "Bakiyeli hesap" olarak nitelendiriliyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>

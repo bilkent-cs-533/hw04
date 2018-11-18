@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 241 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/02/son/soneko05.html </URL>
+<DATE> 2001/01/02/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Elektriğe zam 
+</HEADLINE>
+<TEXT>
+
+     Elektriğin kilowatsaat fiyatına, 1 Ocak 2001'den geçerli olmak üzere yüzde 1 oranında zam yapıldı. 
+     Türkiye Elektrik Dağıtım A.Ş'den TEDAŞ yapılan açıklamaya göre, yeni ayarlama sonrası meskenlerde tüketilen elektrik enerjisinin birim fiyatı 52 bin 60 liradan 52 bin 580 liraya, Kalkınmada Öncelikli Yörelerdeki KÖY illerde ise 47 bin 520 liradan 48 bin liraya çıkartıldı. 
+     KÖY kapsamındaki illerde sanayi elektriğinin fiyatı 46 bin 770 liradan 47 bin 220 liraya, diğer illerdeki sanayi elektriğinin fiyatı ise 51 bin 300 liradan 51 bin 800 liraya yükseltildi. Ticarethane, resmi daire ve yazıhaneler için elektriğin kilowatsaat ücreti de 61 bin 780 liradan 62 bin 380 liraya çıkarıldı. Meskenlerde aboneler, 150 kilovatsaatın üzerindeki elektrik tüketim bedelini yüzde 50 zamlı olarak ödüyorlar. 
+     Bu çerçevede elektrik satış fiyatları 1 Ocak'tan itibaren ortalama yüzde 1 oranında artırılmış oldu. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> 284 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/ekonomi/eko03.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+5 Ocak sendromu... 
+</HEADLINE>
+<TEXT>
+
+Hükümet cuma günkü Hazine ihalesi öncesi faizlerin çok yükselmemesi için hareke geçti. Bankacılar ise faizi tutmak için kamu bankaları operasyonunun yetersiz olacağını savundu 
+     TARIK YILMAZ 
+
+     Bankacılar umutlu değil 
+     Bankacılar, kamu bankalarının bankalararası para piyasasından yüksek bedelle borçlanmasını önleme böylece piyasalarda faiz oranlarını düşürme yönünde yapılan açıklamalara karşın ihalede faizin yüksek çıkmasını beklediklerini belirttiler. 
+     Kamu bankalarında görev zararlarının ortadan kaldırmak için harekete geçildiği söylentileri dün bankaların en önemli gündem maddesi oldu. Akşama kadar tartışan bankacılar, görev zararlarına ilişkin açıklamaları cuma günü yapılacak Hazine ihalesinde faizleri düşürme yönündeki çabalara bağladılar. 
+     Görev zararlarına ilişkin olası senaryoları bankacılar farklı yorumlarda bulundular. Kamu bankalarına görev zararlarını karşılamak için Hazine ya da Merkez Bankası'ndan doğrudan kaynak aktarmanın mümkün olmadığını belirten bankacılar, bunun enflasyonla mücadele programını terketmek anlamına geleceğini savundular. 
+     Hazine'nin 2 milyar doları kamu bankalarına tahvil olarak vermesi, kamu bankalarının da bu parayı Merkez Bankası'ndan repo karşılığı kullanması formülününde Net İç Varlıklar hedefini saptıracağı için mümkün olmadığını savundular. 
+     Kamu bankalarına tahvil çıkarma hakkı tanıması durumunda ise Hazine'nin rakibi olacağını belirten bankacılar, bunun da geçici bir çözüm olacağını iddia ettiler. 
+     
+Oranı düşürme çabası      Bankacılar, açıklamaları Hazine ihalesinde faizi düşürme yönünde bir çaba olduğunu savundular. Yüksek maliyete katlanmak istenilmemesinin bu çabaları "haklı" kıldığını dile getiren bankacılar,faizlerin yine de yüzde 75'in altına düşmesini mümkün görmediklerini dile getirdiler. 
+     Bankaların bu açıklamaların somut hale geldiğini görmedikçe ihalede faizin yüzde 75 - 80'in altına inmesinin mümkün olmadığını savunan bankacılar şu yorumu yapıyorlar "Geçen yıl yüzde 38 ortalamayla borçlanan Hazine'nin faizden 1 katrilyon lira kadar tasarruf etti. Ancak bankalar bu yıl bu tutarı geri alacaklarmış gibi görünüyor." 
+     
+
+</TEXT>
+</DOC>

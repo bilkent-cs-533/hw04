@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 389 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/03/son/sondun05.html </URL>
+<DATE> 2001/01/03/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İspanya'da 2 deli dana vakasına rastlandı 
+</HEADLINE>
+<TEXT>
+
+     İspanya'nın orta kesiminde iki ''deli dana'' vakasına rastlandı. 
+     Yetkililer, Castilla y Leon bölgesinde 200 inek üzerinde yapılan testler sonucunda iki vakanın belgirlendiğini açıkladı. 
+     İspanya'nın kuzeyindeki Galicia bölgesinde geçen Kasım ayında da iki deli dana vakası saptanmıştı. 
+     Bu kez ülkenin başka bir kesiminde vakalara rastlanması, hastalığın ülkede yaygınlaştığı endişelerine yol açtı. Hastalıklı hayvanların bulunduğu çiftlikler karantinaya alındı. 
+
+
+
+
+</TEXT>
+</DOC>

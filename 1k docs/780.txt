@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> 780 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/sontur05.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Çanakkale Boğazı’nda yoğun sis 
+</HEADLINE>
+<TEXT>
+
+     Çanakkale Boğazı’ndaki yoğun sis, deniz ulaşımını olumsuz etkiliyor. 
+     Bölgede sabahın erken saatlerinden itibaren etkili olan sis nedeniyle, Çanakkale-Eceabat, Gelibolu-Lapseki araba vapuru seferleri, 03.00’ten bu yana yapılamıyor. 
+     Yetkililer, sise boğazda yakalanan gemilerin herhangi bir kazaya yol açmamaları için ağır ilerlediklerini ve sisin etkisini yitirmesiyle, deniz ulaşımının normale dönmesinin beklendiğini bildirdiler 
+
+
+
+
+</TEXT>
+</DOC>

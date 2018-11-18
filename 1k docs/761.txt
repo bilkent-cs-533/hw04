@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> 761 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/soneko06.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Merkez Bankası repo ihalesiyle piyasaya 840 trilyon verdi 
+</HEADLINE>
+<TEXT>
+
+     Merkez Bankası, bugün düzenlediği beş günlük repo ihalesiyle, piyasaya toplam 840 trilyon lira verdi. 
+     Edinilen bilgiye göre, beş günlük repo ihalesine 2 katrilyon 930.1 trilyon liralık talep gelirken, 840 trilyon lirası karşılandı. 
+     İhalede ortalama bileşik faiz yüzde 117.20, en düşük basit faiz yüzde 76.12 oldu. 
+     Bu arada Hazine, bugün yapılan ihaleler öncesi kamu kuruluşlarına net 250 trilyon liralık, 14 ay vadeli tahvil sattı. İtfa tarihi 20 Şubat 2002 olan tahvillerin satışında, ihalede oluşacak ortalama faiz dikkate alınacak. 
+
+
+
+
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 586 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/04/son/soneko09.html </URL>
+<DATE> 2001/01/04/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+İTO’dan faiz uyarısı 
+</HEADLINE>
+<TEXT>
+
+     İstanbul Ticaret Odası İTO Yönetim Kurulu Başkanı Mehmet Yıldırım, yükselen kredi faizlerinin daha önce alınmış kredilere de uygulanmasının, işletmeleri kapanma noktasına getirdiğini bildirdi. 
+     Yazılı bir açıklama yapan Yıldırım, işletmelerin hesaplarını ve programlarını krediyi aldıkları tarihteki faiz hadleri üzerinden yaptıklarını hatırlatarak, maliyetlerin ve fiyatların buna göre belirlendiğini ve taahhüt altına girildiğini kaydetti. 
+     Yıldırım, Bankalar Birliği ile Bankacılık Düzenleme ve Denetleme Kurulu’nun, özellikle eski tarihli kredi faizleri konusunda bankaları yönlendirerek, makul hadler uygulanması yönünde bir konsensus için çaba sarfetmesini istedi. 
+     Bankaların kredi faiz oranlarındaki sıçrayışı aynı oranda mevduata yansıtmadıklarını belirten Yıldırım, "Mevduata da aynı oranda yüksek faiz uygulansaydı bunun getireceği mevduat artışı hiç değilse bir süre sonra genel faiz hadlerinin aşağı çekilmesinde etkili olacaktı" dedi. 
+     
+
+
+
+
+</TEXT>
+</DOC>

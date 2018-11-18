@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> 907 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/06/son/sondun01.html </URL>
+<DATE> 2001/01/06/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Wall Street düşüşle kapandı 
+</HEADLINE>
+<TEXT>
+
+     New York Wall Street Menkul Kıymetler Borsası'nda temel mali gösterge Dow Jones Endeksi, 252 puan düşerek yüzde 2.3 günü 10 bin 660.79 puandan kapattı. 
+     Teknoloji şirketlerinin hisse senetlerinin takip edildiği Nasdaq Birleşik Endeksi ise 159 puanlık hızlı düşüşle yüzde 6.2 kayıp günü 2 bin 407.96 puandan bitirdi. 
+     Dünyanın en büyük borsası konumundaki New York Menkul Kıymetler Borsası Wall Street, haftanın son işlem gününe düşüşle başladı. 
+     Dow Jones Endeksi, ilk seansta 210.95 puanlık düşüşle 10,701.36 puana geriledi. 
+     Borsanın düşmesinde, şirketlerin karlarının düşmesi ve ekonomide durgunluk belirtilerinin artması, önemli etmen oldu. 
+
+
+
+
+</TEXT>
+</DOC>

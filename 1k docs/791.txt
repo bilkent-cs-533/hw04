@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> 791 </DOCNO>
+<SOURCE> Milliyet v.01 </SOURCE>
+<URL> www.milliyet.com.tr/2001/01/05/son/sontur16.html </URL>
+<DATE> 2001/01/05/ </DATE>
+<TIME>  </TIME>
+<AUTHOR>  </AUTHOR>
+<HEADLINE>
+Yatağan’da üretim durduruldu 
+</HEADLINE>
+<TEXT>
+
+     Hava kirliliğinin tehlikeli değerlere ulaşması yüzünden Yatağan Termik Santralı’nda üretimin yeniden durdurulduğu bildirildi. 
+     Yatağan Kaymakamı Mehmet Okur, saat 13.15 itibariyle santraldan çıkan baca gazlarının çevre sağlığını tehdit edecek boyutta olduğunun belirlendiğini kaydetti. 
+     Ölçümlerde ilçe merkezi ve çevre köylerde havadaki kükürtdioksit oranının metreküpte 600 mikrograma ulaştığının belirlendiğini duyuran Okur, "Bu nedenle santralın üretimde olan 2 ünitesinde öğle saatleri itibariyle üretim yeniden durduruldu" dedi. 
+     Okur, rüzgarın çıkması halinde hava kirliliğinin dağılabileceğini belirterek, kirliliğin azalması ile santralın yeniden üretime alınacağını bildirdi. Okur, Yatağan ve çevresinde hava kirliliği ölçümlerinin sürdürüldüğüne işaret etti. 
+     Yatağan Termik Santralı’nda, 2 Ocak Salı gününden bu yana rüzgar olmaması nedeniyle kirli baca gazlarının çökmesi sonucu inversiyon hava kirliliği yaşandığı için üretim durduruluyor ya da güç düşürülüyor. 
+     Muğla Valiliği’nin kararıyla havadaki kükürt dioksit oranının metreküpte 500 mikrogramın üzerine çıkması durumunda santraldaki üretim durduruluyor. 
+     
+
+
+
+
+</TEXT>
+</DOC>
