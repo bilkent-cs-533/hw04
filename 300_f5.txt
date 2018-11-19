@@ -1,0 +1,6 @@
+term count: 9518
+removed stopword count: 7412
+total count: 61846
+removed stopwords / total words: 11.984606926882902
+inverted index structure size(bytes): 295016
+used stopword percentage: 97.95918367346938
