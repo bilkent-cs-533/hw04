@@ -7,7 +7,6 @@ import time
 from TurkishStemmer import TurkishStemmer 
 from collections import defaultdict
 
-
 stop_words_file = 'stop_words_tr_147.txt'
 
 def freq_dist(l):
@@ -61,7 +60,7 @@ def create_index (data): # https://stackoverflow.com/a/28019844
         index[token].append((i, np.count_nonzero(tokens == token)))
 
   return index
-
+   
 def main(): 
   for doc_count in [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000]:
     docs = get_docs_as_str(doc_count)
