@@ -6,11 +6,14 @@ import xml.etree.ElementTree
 from TurkishStemmer import TurkishStemmer 
 from sklearn.cluster import AffinityPropagation
 from sklearn.cluster import MeanShift, estimate_bandwidth
+from sklearn.metrics import pairwise_distances
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import sklearn.cluster as cluster
 import time
+import scipy
+
 sns.set_context('poster')
 sns.set_color_codes()
 plot_kwds = {'alpha' : 0.25, 's' : 80, 'linewidths':0}
@@ -107,24 +110,27 @@ def get_features_as_binary_freq_dist(docs, corpus):
   return l
 
 # avg similarity among members of a cluster
-def intra_similarity(clusters, C):
-  similarities = dict()
-  for i in clusters:
-    members = clusters[i]
-    n = len(members)
-    tot = 0
-    for j in range(n):
-      for k in range(i+1, n):
-        tot += C[j, k]
-    similarities[i] = tot/n
+def intra_sim(labels, S):
+  similarities = []
+  for c in set(labels):
+    totalSim = 0
+    totalVal = 0
+    for i in range(0,len(S)):
+      for j in range(i+1,len(S)):
+        if labels[i] == c and labels[j] == c:
+          totalSim += S[i][j]
+          totalVal += 1
+    if totalVal == 0:
+      similarities.append(1)
+    else: 
+      similarities.append(totalSim / totalVal)
   return similarities
 
-def inter_similarity(clusters, C):
-  similarities = dict()
-  nC = len(clusters)
-  for i in range(nC):
-    for j in range(i+1, nC):
-      similarities[(i,j)] = C[i,j]
+def inter_sim(cluster_centers_indices, S):
+  similarities = np.zeros((len(cluster_centers_indices),len(cluster_centers_indices)))
+  for i, c1 in enumerate(cluster_centers_indices):
+    for j, c2 in enumerate(cluster_centers_indices[i+1:]):
+      similarities[i][i+j+1] = S[int(c1)][int(c2)]
   return similarities
 
 def get_D_matrix(set_size, is_bin=True):
@@ -154,14 +160,19 @@ def c3m(D):
   seed_indices = sorted_by_seed_power[-nC:]
   labels = np.zeros(count_docs)
   for i in seed_indices:
-    labels[i] = [i]
+    labels[i] = i
 
   non_seed_indices = sorted_by_seed_power[:count_docs-nC]
   for i in non_seed_indices:
     similarity2seeds = np.take(C[i], seed_indices)
     labels[i] = seed_indices[similarity2seeds.argmax()]
 
-  return labels, C
+  cluster_centers_indices = list(set(labels)) 
+
+  for i, center in enumerate(cluster_centers_indices):
+    labels = [i if label == center else label for label in labels]
+
+  return labels, cluster_centers_indices
 
 def affinity_propogation(D):
   af = AffinityPropagation().fit(D)
@@ -197,10 +208,23 @@ def mean_shift(D):
 
 start_time = time.time()
 D = get_D_matrix(100, False)
+"""
+af = AffinityPropagation().fit(D)
+S = 1 - pairwise_distances(D, metric="cosine")
+print(S)
+print(inter_sim(af.cluster_centers_indices_, S))
+print(intra_sim(af.labels_, S))
+"""
 
-plot_clusters(D, AffinityPropagation, (), {})
+S = 1 - pairwise_distances(D, metric="cosine")
+print(S)
+labels, cluster_center_indices = c3m(D)
+print(inter_sim(cluster_center_indices, S))
+print(intra_sim(labels, S))
 
+"""
 print(time.time() - start_time)
 start_time = time.time()
 # affinity_propogation(D)
 print(time.time() - start_time)
+"""
