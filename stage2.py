@@ -60,9 +60,11 @@ def get_docs_as_list(set_size, stemmerId=0):
   for doc in docs:
     words = doc.strip().split()
     words = remove_stop_words(stop_words_file, words)
+    if len(words) == 0:
+      continue
 
     if stemmerId == 0:
-      words = turkish_stemmer_vectorize(words)
+        words = turkish_stemmer_vectorize(words)
     else:
       words = f5_stemmer(words)
 
@@ -206,25 +208,33 @@ def mean_shift(D):
 
   print("number of estimated clusters : %d" % n_clusters_)
 
-start_time = time.time()
-D = get_D_matrix(100, False)
-"""
-af = AffinityPropagation().fit(D)
-S = 1 - pairwise_distances(D, metric="cosine")
-print(S)
-print(inter_sim(af.cluster_centers_indices_, S))
-print(intra_sim(af.labels_, S))
-"""
+#start_time = time.time()
+for set_size in [100,200,300,400,500]:
+  D = get_D_matrix(set_size, False)
+  S = 1 - pairwise_distances(D, metric="cosine")
+  """
+  start_time = time.time()
+  af = AffinityPropagation().fit(D)
+  print(set_size, time.time() - start_time)
+  continue
+  labels, cluster_center_indices = af.labels_, af.cluster_centers_indices_
+  """
 
-S = 1 - pairwise_distances(D, metric="cosine")
-print(S)
-labels, cluster_center_indices = c3m(D)
-print(inter_sim(cluster_center_indices, S))
-print(intra_sim(labels, S))
+  start_time = time.time()
+  labels, cluster_center_indices = c3m(D)
+  print(set_size, time.time() - start_time)
+  continue
+  
+  inter_sim_matrix = inter_sim(cluster_center_indices, S)
+  n = inter_sim_matrix.shape[0]
+  avg_inter_sim = sum(map(sum, inter_sim_matrix)) / (n*(n-1)/2)
 
-"""
-print(time.time() - start_time)
-start_time = time.time()
-# affinity_propogation(D)
-print(time.time() - start_time)
-"""
+  intra_sim_matrix = intra_sim(labels, S)
+  avg_intra_sim = sum(intra_sim_matrix) / len(intra_sim_matrix)
+  print(set_size, avg_inter_sim, avg_intra_sim)
+  """
+  print(time.time() - start_time)
+  start_time = time.time()
+  # affinity_propogation(D)
+  print(time.time() - start_time)
+  """
