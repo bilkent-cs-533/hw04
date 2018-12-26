@@ -30,7 +30,7 @@ def remove_stop_words(stop_words_file_name, words):
 def f5_stemmer(words):
   if len(words) == 0:
     return []
-  words = map(lambda x: x[:5], words)
+  words = [word[:5] for word in words]
   return words
 
 @np.vectorize
@@ -248,8 +248,8 @@ for set_size in range(100, 1100, 100):
   c3m_results.append([set_size, avg_inter_sim, avg_intra_sim, runtime, f1_score])
   print('c3m for ', set_size, ' executed in ', runtime, ' sec')
 
-dump_result_csv("affinity_similarities.csv", affinity_results)
-dump_result_csv("c3m_similarities.csv", c3m_results)
+dump_result_csv("affinity_turkishstemmer_similarities.csv", affinity_results)
+dump_result_csv("c3m_turkishstemmer_similarities.csv", c3m_results)
 
 print('total time ', time.time() - start_time0, ' sec')
 
