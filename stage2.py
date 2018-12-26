@@ -156,7 +156,7 @@ def c3m(D):
   nC = int(round(sum(C.diagonal())))
   cluster_seed_powers = np.zeros(count_docs)
   for i in range(count_docs):
-    cluster_seed_powers[i] = C[i,i] * (1-C[i,i]) * sum(D[i] != 0)
+    cluster_seed_powers[i] = C[i,i] * (1-C[i,i]) * sum(D[i])
 
   sorted_by_seed_power = np.argsort(cluster_seed_powers)
   seed_indices = sorted_by_seed_power[-nC:]
@@ -206,8 +206,8 @@ def get_inter_intra_sim(D, labels, cluster_center_indices):
   print('inter cluster sim: ', avg_inter_sim, ' intra cluster sim: ', avg_intra_sim)
   return avg_inter_sim, avg_intra_sim
 
-#start_time = time.time()
-for set_size in [100,200,300,400,500]:
+start_time0 = time.time()
+for set_size in range(100, 600, 100):
 
   start_time = time.time()
   D = get_D_matrix(set_size, False)
@@ -226,4 +226,5 @@ for set_size in [100,200,300,400,500]:
   
   get_inter_intra_sim(D, labels2, cluster_center_indices2)
   
-  
+print('total time ', time.time() - start_time0, ' sec')
+
