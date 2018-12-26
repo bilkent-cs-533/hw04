@@ -13,6 +13,7 @@ import seaborn as sns
 import sklearn.cluster as cluster
 import time
 from scipy import stats
+import csv
 
 sns.set_context('poster')
 sns.set_color_codes()
@@ -203,18 +204,17 @@ def get_inter_intra_sim(D, labels, cluster_center_indices):
   print('inter cluster sim: ', avg_inter_sim, ' intra cluster sim: ', avg_intra_sim)
   return avg_inter_sim, avg_intra_sim
 
-def dump_result(filename, result_list):
-    """
-    writes "set_size avg_inter_sim avg_intra_sim" to each line
-    overwrites old file
-    """
-    text = "\n".join(str(x[0]) + " " + str(x[1]) + " " + str(x[2]) for x in result_list)
-    with open(".\\results\\" + filename, "w") as f:
-        f.write(text)
+def dump_result_csv(filename, result_list):
+  """
+  writes "set_size avg_inter_sim avg_intra_sim" to each line
+  overwrites old file
+  """
+  with open(".\\results\\" + filename, "w") as f:
+      writer = csv.writer(f, lineterminator='\n')
+      writer.writerows(result_list)
 
-
-affinity_results = []
-c3m_results = []
+affinity_results = [["SetSize", "InterSimilarity", "IntraSimilarity"]]
+c3m_results = [["SetSize", "InterSimilarity", "IntraSimilarity"]]
 
 start_time0 = time.time()
 for set_size in range(100, 1100, 100):
@@ -238,8 +238,8 @@ for set_size in range(100, 1100, 100):
   avg_inter_sim, avg_intra_sim = get_inter_intra_sim(D, labels2, cluster_center_indices2)
   c3m_results.append([set_size, avg_inter_sim, avg_intra_sim])
 
-dump_result("affinity_similarities.txt", affinity_results)
-dump_result("c3m_similarities.txt", c3m_results)
+dump_result_csv("affinity_similarities.csv", affinity_results)
+dump_result_csv("c3m_similarities.csv", c3m_results)
 
 print('total time ', time.time() - start_time0, ' sec')
 
