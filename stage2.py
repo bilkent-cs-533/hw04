@@ -161,27 +161,15 @@ def c3m(D):
   sorted_by_seed_power = np.argsort(cluster_seed_powers)
   seed_indices = sorted_by_seed_power[-nC:]
   labels = np.zeros(count_docs)
-  for i in seed_indices:
-    labels[i] = i
+  for idx,i in enumerate(seed_indices):
+    labels[i] = idx
 
   non_seed_indices = sorted_by_seed_power[:count_docs-nC]
   for i in non_seed_indices:
     similarity2seeds = np.take(C[i], seed_indices)
-    labels[i] = seed_indices[similarity2seeds.argmax()]
+    labels[i] = similarity2seeds.argmax()
 
-  cluster_centers_indices = list(set(labels)) 
-
-  for i, center in enumerate(cluster_centers_indices):
-    labels = [i if label == center else label for label in labels]
-
-  return labels, cluster_centers_indices
-
-def affinity_propogation(D):
-  af = AffinityPropagation().fit(D)
-  cluster_centers_indices = af.cluster_centers_indices_
-  labels = af.labels_
-  clusters = dict()
-
+  return labels, seed_indices
 
 def plot_clusters(data, algorithm, args, kwds):
   start_time = time.time()
@@ -201,40 +189,41 @@ def mean_shift(D):
   ms = MeanShift()
   ms.fit(D)
   labels = ms.labels_
-  cluster_centers = ms.cluster_centers_
 
   labels_unique = np.unique(labels)
   n_clusters_ = len(labels_unique)
 
   print("number of estimated clusters : %d" % n_clusters_)
 
-#start_time = time.time()
-for set_size in [100,200,300,400,500]:
-  D = get_D_matrix(set_size, False)
+def get_inter_intra_sim(D, labels, cluster_center_indices):
   S = 1 - pairwise_distances(D, metric="cosine")
-  """
-  start_time = time.time()
-  af = AffinityPropagation().fit(D)
-  print(set_size, time.time() - start_time)
-  continue
-  labels, cluster_center_indices = af.labels_, af.cluster_centers_indices_
-  """
-
-  start_time = time.time()
-  labels, cluster_center_indices = c3m(D)
-  print(set_size, time.time() - start_time)
-  continue
-  
   inter_sim_matrix = inter_sim(cluster_center_indices, S)
   n = inter_sim_matrix.shape[0]
-  avg_inter_sim = sum(map(sum, inter_sim_matrix)) / (n*(n-1)/2)
+  avg_inter_sim = sum(sum(inter_sim_matrix)) / (n*(n-1)/2)
 
   intra_sim_matrix = intra_sim(labels, S)
   avg_intra_sim = sum(intra_sim_matrix) / len(intra_sim_matrix)
-  print(set_size, avg_inter_sim, avg_intra_sim)
-  """
-  print(time.time() - start_time)
+  print('inter cluster sim: ', avg_inter_sim, ' intra cluster sim: ', avg_intra_sim)
+  return avg_inter_sim, avg_intra_sim
+
+#start_time = time.time()
+for set_size in [100,200,300,400,500]:
+
   start_time = time.time()
-  # affinity_propogation(D)
-  print(time.time() - start_time)
-  """
+  D = get_D_matrix(set_size, False)
+  print('get D matrix for ', set_size, ' executed in ', time.time() - start_time, ' sec')
+  
+  start_time = time.time()
+  af = AffinityPropagation().fit(D)
+  labels, cluster_center_indices = af.labels_, af.cluster_centers_indices_
+  print('AP for ', set_size, ' executed in ', time.time() - start_time, ' sec')
+  
+  get_inter_intra_sim(D, labels, cluster_center_indices)
+  
+  start_time = time.time()
+  labels2, cluster_center_indices2 = c3m(D)
+  print('c3m for ', set_size, ' executed in ', time.time() - start_time, ' sec')
+  
+  get_inter_intra_sim(D, labels2, cluster_center_indices2)
+  
+  
