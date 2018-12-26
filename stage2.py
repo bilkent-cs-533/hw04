@@ -213,8 +213,17 @@ def dump_result_csv(filename, result_list):
       writer = csv.writer(f, lineterminator='\n')
       writer.writerows(result_list)
 
-affinity_results = [["SetSize", "InterSimilarity", "IntraSimilarity"]]
-c3m_results = [["SetSize", "InterSimilarity", "IntraSimilarity"]]
+def f1_score_func(inter_sim, intra_sim):
+  """
+  Returns F1 score of Inter Distance and Intra Similarity
+  Higher is better
+  """
+  inter_distance = 1 - inter_sim
+  return 2 * (intra_sim * inter_distance) / (intra_sim + inter_distance)
+
+
+affinity_results = [["SetSize", "InterSimilarity", "IntraSimilarity", "Runtime", "F1Score"]]
+c3m_results = [["SetSize", "InterSimilarity", "IntraSimilarity", "Runtime", "F1Score"]]
 
 start_time0 = time.time()
 for set_size in range(100, 1100, 100):
@@ -225,18 +234,19 @@ for set_size in range(100, 1100, 100):
   start_time = time.time()
   af = AffinityPropagation().fit(D)
   labels, cluster_center_indices = af.labels_, af.cluster_centers_indices_
-  print('AP for ', set_size, ' executed in ', time.time() - start_time, ' sec')
-  
+  runtime = time.time() - start_time
   avg_inter_sim, avg_intra_sim = get_inter_intra_sim(D, labels, cluster_center_indices)
-  
-  affinity_results.append([set_size, avg_inter_sim, avg_intra_sim])
+  f1_score = f1_score_func(avg_inter_sim, avg_intra_sim )
+  affinity_results.append([set_size, avg_inter_sim, avg_intra_sim, runtime, f1_score])
+  print('AP for ', set_size, ' executed in ', runtime, ' sec')
 
   start_time = time.time()
   labels2, cluster_center_indices2 = c3m(D)
-  print('c3m for ', set_size, ' executed in ', time.time() - start_time, ' sec')
-  
+  runtime = time.time() - start_time  
   avg_inter_sim, avg_intra_sim = get_inter_intra_sim(D, labels2, cluster_center_indices2)
-  c3m_results.append([set_size, avg_inter_sim, avg_intra_sim])
+  f1_score = f1_score_func(avg_inter_sim, avg_intra_sim )
+  c3m_results.append([set_size, avg_inter_sim, avg_intra_sim, runtime, f1_score])
+  print('c3m for ', set_size, ' executed in ', runtime, ' sec')
 
 dump_result_csv("affinity_similarities.csv", affinity_results)
 dump_result_csv("c3m_similarities.csv", c3m_results)
